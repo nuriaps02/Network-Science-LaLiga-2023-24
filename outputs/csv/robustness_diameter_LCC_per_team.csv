@@ -1,0 +1,21 @@
+team,team_id,n_nodes,fragility_diameter,fragility_LCC
+Granada,1049,40,-0.8,0.0813
+Osasuna,422,29,0.568,0.0663
+Deportivo Alavés,206,29,0.086,0.057
+Valencia,207,30,-0.2342,0.0448
+Atlético Madrid,212,27,-0.4264,0.0446
+Las Palmas,208,29,-0.232,0.0392
+Getafe,216,32,-0.3818,0.0385
+Girona,211,25,-0.2162,0.0359
+Real Sociedad,210,31,-0.0594,0.0334
+Real Betis,218,35,-0.0267,0.0323
+Rayo Vallecano,360,26,-0.3089,0.03
+Cádiz,552,33,-0.5924,0.029
+Real Madrid,220,27,0.0564,0.029
+Almería,403,35,-0.785,0.0289
+Villarreal,222,32,-0.5588,0.0271
+Mallorca,1043,25,-0.0492,0.0251
+Sevilla,213,35,-0.4261,0.0179
+Athletic Club,215,27,-0.1243,0.0157
+Barcelona,217,29,-0.7487,0.0114
+Celta Vigo,209,31,-0.2762,0.0044
