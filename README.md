@@ -27,7 +27,8 @@ Tested with Python 3.10.
 
 ## Data
 
-The LaLiga 2023-24 event data is in `data/laliga.zip`. The notebooks read it directly from there.
+The event data used in this project is not included in this repository for
+licensing reasons. The notebooks expect a data file at `data/laliga.zip`.
 
 ## Notebooks
 
